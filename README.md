@@ -4,7 +4,7 @@
 
 I'm a full-stack developer who fell in love with automation and AI while working on process optimization. I started automating workflows using low-code tools like n8n and APIs, and I got so passionate about what I was building that I wanted to understand how it all worked under the hood. That's when I decided to become a developer—I needed to build these solutions from scratch, with real code, not just connect existing tools.
 
-Now I work with React and Spring Boot, building full-stack applications that eliminate repetitive tasks so people can focus on high-value work. I still love automation, but now I can create it from the ground up. I think in systems, I approach problems from a product perspective, and I'm especially interested in integrating AI into real workflows that solve actual business problems.
+I still love automation, but now I can create it from the ground up. I think in systems, I approach problems from a product perspective, and I'm especially interested in integrating AI into real workflows that solve actual business problems.
 
 I speak four languages (Spanish, French, Italian, English), I'm based in Barcelona, and I learn best by building things that matter. Right now I'm focused on strengthening my coding skills, writing cleaner code, and growing in collaborative environments where technology is used to free people's time, not consume it.
 
